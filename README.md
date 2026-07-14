@@ -78,13 +78,3 @@ Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Exper
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# GitHub St
